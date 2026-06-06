@@ -1,59 +1,71 @@
 # Hi, I'm Nick Pinto
 
-I'm a software engineering candidate focused on building practical software across backend development, automation, data-driven analysis, and systems-oriented programming.
+Computer Science and Mathematics student at Gettysburg College focused on building software that solves real problems.
 
-I like projects that force clear thinking: tools people can actually use, code that can be tested, and systems that make technical tradeoffs visible.
+I'm currently an Electronic Discovery & Litigation Support Intern at Sullivan & Cromwell LLP, where I develop PowerShell and API-based automation solutions that streamline workflows across legal, technology, and information security teams. Outside of work, I enjoy taking ideas from my head and working to try to deploy them the best that I can — whether that's building full-stack applications, automating processes, or turning complex data into practical tools and insights.
 
-- Seeking software engineering internships and new-grad opportunities
-- Currently focused on recommendation-network analysis, automation tooling, and low-level systems work
-- Working primarily in Python, C++, JavaScript, Assembly, Shell, and PowerShell
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-pinto-153624277)
+## Technical Interests
+
+- Software Engineering
+- Full-Stack Application Development
+- Workflow Automation
+- Data & Network Analysis
+- Product Development
+
+## Technologies
+
+**Languages:** Python, Swift, Java, PowerShell
+
+**Technologies:** SwiftUI, Firebase, Cloud Firestore, REST APIs, Git, GitHub, Azure
+
+**Libraries:** NetworkX, Pandas, NumPy, SciPy, Matplotlib, pytest
 
 ## Featured Projects
 
-### [Ideological Drift in Recommendation Networks](https://github.com/sudo-nickPinto/ideological-drift-recommendation-networks)
-Graph-based research project studying whether recommendation systems structurally push users toward more extreme political content.
+### DOBLE — iOS Emergency Medical Services Platform
 
-- Models recommendation networks as directed graphs
-- Uses a real dataset of 7,000+ YouTube channels and 400,000+ recommendation edges
-- Focuses on simulation, drift analysis, and reproducible research workflows
+**Private Repository**
+
+Production iOS application developed for Darien EMS to centralize scheduling, attendance tracking, communications, training resources, and organizational operations.
+
+- Built using Swift, SwiftUI, Firebase Authentication, and Cloud Firestore
+- Deployed through Apple's private distribution program
+- Adopted by 130+ users across a 140-member organization
+- Continues to be used in production today
+
+---
+
+### [YouTube Recommendation Network Analysis](https://github.com/sudo-nickPinto/ideological-drift-recommendation-networks)
+
+Research-focused analytics platform exploring ideological drift within large-scale recommendation networks.
+
+- Analyzes 7,079 YouTube channels and 401,384 recommendation relationships
+- Implements weighted random walk simulations and graph-based analysis
+- Includes reproducible experimentation workflows and automated testing
+
+---
 
 ### [News Digest](https://github.com/sudo-nickPinto/acm-email-automation)
-Cross-platform CLI application that builds and sends a personalized daily email digest from selected tech news sources.
 
-- Supports macOS, Linux, and Windows
-- Includes installers, setup automation, scheduling, and offline test coverage
-- Designed as a usable end-to-end product rather than a script demo
+Cross-platform automation tool that generates personalized daily technology news digests.
 
-### [arm-hack-converter](https://github.com/sudo-nickPinto/arm-hack-converter)
-C++ and Assembly project centered on instruction translation and low-level systems thinking.
+- Supports Windows, macOS, and Linux
+- Includes scheduling, automation, and testing workflows
+- Designed as a complete end-to-end product
 
-- Builds around ARM-to-Hack translation work
-- Reinforces compiler-style parsing and architecture concepts
-- Reflects interest in computer systems beyond application-layer development
+## Leadership
 
-## What I'm Building Toward
+- Secretary, Association for Computing Machinery (ACM), Gettysburg College
+- Vice President, Darien EMS – Post 53
+- Recipient of the Town of Darien Exemplary Leadership Award
 
-I'm especially interested in roles where I can keep getting stronger at:
+## Currently
 
-- Writing reliable backend and automation software
-- Turning ambiguous problems into clear, testable implementations
-- Building systems with strong fundamentals instead of surface-level demos
+- Studying Computer Science, Mathematics, and Data Science at Gettysburg College
+- Building software projects and expanding technical depth through hands-on development
+- Seeking Software Engineering internship and early-career opportunities
 
-## Technical Focus
+## Connect
 
-**Languages:** Python, C++, JavaScript, Assembly, Shell, PowerShell, HTML/CSS  
-**Interests:** Software engineering, backend systems, automation, testing, research tooling, low-level computing
-
-## More Work
-
-- [portfolio](https://github.com/sudo-nickPinto/portfolio) - personal website project for presenting technical work
-- [leetcode](https://github.com/sudo-nickPinto/leetcode) - deliberate practice for data structures and algorithms
-- Additional private work available on request
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/nicholas-pinto-153624277)
-- GitHub: [@sudo-nickPinto](https://github.com/sudo-nickPinto)
-
-Resume-aligned details such as education, current coursework, and selected private project summaries will be added in the next revision.
+- LinkedIn: linkedin.com/in/nicholas-pinto-153624277
+- GitHub: github.com/sudo-nickPinto
