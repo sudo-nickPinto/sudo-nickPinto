@@ -1,71 +1,38 @@
 # Hi, I'm Nick Pinto
 
-Computer Science and Mathematics student at Gettysburg College focused on building software that solves real problems.
+**Computer Science & Mathematics student at Gettysburg College (B.S., May 2027)** who builds reliable software: iOS apps, data pipelines, and internal automation.
 
-I'm currently an Electronic Discovery & Litigation Support Intern at Sullivan & Cromwell LLP, where I develop PowerShell and API-based automation solutions that streamline workflows across legal, technology, and information security teams. Outside of work, I enjoy taking ideas from my head and working to try to deploy them the best that I can — whether that's building full-stack applications, automating processes, or turning complex data into practical tools and insights.
+I'm an **Internal Controls Developer at Sullivan & Cromwell LLP**. I automate audit-sensitive workflows and build AI tooling for legal teams.
 
-## Technical Interests
-
-- Software Engineering
-- Full-Stack Application Development
-- Workflow Automation
-- Data & Network Analysis
-- Product Development
-
-## Technologies
-
-**Languages:** Python, Swift, Java, PowerShell
-
-**Technologies:** SwiftUI, Firebase, Cloud Firestore, REST APIs, Git, GitHub, Azure
-
-**Libraries:** NetworkX, Pandas, NumPy, SciPy, Matplotlib, pytest
-
-## Featured Projects
-
-### DOBLE — iOS Emergency Medical Services Platform
-
-**Private Repository**
-
-Production iOS application developed for Darien EMS to centralize scheduling, attendance tracking, communications, training resources, and organizational operations.
-
-- Built using Swift, SwiftUI, Firebase Authentication, and Cloud Firestore
-- Deployed through Apple's private distribution program
-- Adopted by 130+ users across a 140-member organization
-- Continues to be used in production today
+[![Portfolio](https://img.shields.io/badge/Portfolio-nick--pinto.com-111827?style=flat)](https://nick-pinto.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicholas%20Pinto-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-pinto-153624277)
+[![Email](https://img.shields.io/badge/Email-scout.pinto%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:scout.pinto@gmail.com)
 
 ---
 
-### [YouTube Recommendation Network Analysis](https://github.com/sudo-nickPinto/ideological-drift-recommendation-networks)
+## Featured projects
 
-Research-focused analytics platform exploring ideological drift within large-scale recommendation networks.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **DOBLE** *(private repo)* | iOS platform for Darien EMS – Post 53: scheduling, attendance, training, and communications. Used in production by 130+ personnel (92% adoption). It replaced several paid third-party services. | Swift, SwiftUI, Firebase Auth, Cloud Firestore |
+| [**Ideological Drift in Recommendation Networks**](https://github.com/sudo-nickPinto/ideological-drift-recommendation-networks) | Analytics pipeline over 7,079 YouTube channels and 401,384 recommendation edges. Uses weighted random-walk simulations to measure ideological drift. 72 automated tests. | Python, NetworkX, Pandas, NumPy, SciPy, pytest |
+| [**CS440 Quiz Platform**](https://github.com/sudo-nickPinto/CS440-Quiz-Platform) | Kahoot-style quiz platform built as a team capstone. | React, FastAPI, MySQL |
+| [**Portfolio**](https://github.com/sudo-nickPinto/portfolio) | Personal engineering site with ADRs, CI gates, and automated WCAG 2.2 AA checks. | Next.js, TypeScript, Tailwind |
+| [**News Digest**](https://github.com/sudo-nickPinto/acm-email-automation) | Cross-platform tool that builds a personalized daily news digest email, with scheduling and testing. | Python |
+| [**Block Blast AI**](https://github.com/sudo-nickPinto/block_blast_AI_ML) | Block Blast clone with ML-driven move suggestions. | Python |
 
-- Analyzes 7,079 YouTube channels and 401,384 recommendation relationships
-- Implements weighted random walk simulations and graph-based analysis
-- Includes reproducible experimentation workflows and automated testing
+## Tech
+
+**Languages:** Python · Swift · Java · JavaScript/TypeScript · C++ · PowerShell
+**Frameworks & tools:** SwiftUI · Next.js · React · FastAPI · Firebase · Azure · Git/GitHub Actions
+**Data:** Pandas · NumPy · SciPy · NetworkX · Matplotlib · pytest
+
+## Beyond code
+
+- ACM Secretary, Gettysburg College (2025–2026)
+- Vice President, Darien EMS – Post 53; recipient of the Town of Darien Exemplary Leadership Award
+- Pi Mu Epsilon Mathematical Honor Society
 
 ---
 
-### [News Digest](https://github.com/sudo-nickPinto/acm-email-automation)
-
-Cross-platform automation tool that generates personalized daily technology news digests.
-
-- Supports Windows, macOS, and Linux
-- Includes scheduling, automation, and testing workflows
-- Designed as a complete end-to-end product
-
-## Leadership
-
-- Secretary, Association for Computing Machinery (ACM), Gettysburg College
-- Vice President, Darien EMS – Post 53
-- Recipient of the Town of Darien Exemplary Leadership Award
-
-## Currently
-
-- Studying Computer Science, Mathematics, and Data Science at Gettysburg College
-- Building software projects and expanding technical depth through hands-on development
-- Seeking Software Engineering internship and early-career opportunities
-
-## Connect
-
-- LinkedIn: linkedin.com/in/nicholas-pinto-153624277
-- GitHub: github.com/sudo-nickPinto
+I'm looking for **software engineering internships and new-grad roles**. The best way to reach me is email or LinkedIn.
